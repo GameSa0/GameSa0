@@ -19,9 +19,9 @@ Profile View: ![Profile view counter on GitHub](https://komarev.com/ghpvc/?usern
 ---
 [![](https://visitcount.itsvg.in/api?id=GameSa0&icon=6&color=0)](https://visitcount.itsvg.in)
 
-linkedin:
-<a href="https://www.linkedin.com/in/cesar-ian-apatino-b217893ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-Portfolio(in progress):
+linkedin:<br/>
+<a href="https://www.linkedin.com/in/cesar-ian-apatino-b217893ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br/>
+Portfolio(in progress):<br/>
 <a href="https://dapper-frangollo-1cca87.netlify.app/" target="_blank"><img src="" alt="Portfolio"></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
