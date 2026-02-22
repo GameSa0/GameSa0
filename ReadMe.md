@@ -30,8 +30,12 @@ I'm always learning, always building.
 
 ---
 
+<div align="center">
+
+### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=GameSa0)
-[![Visit Count](https://visitcount.itsvg.in/api?id=GameSa0&icon=6&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
